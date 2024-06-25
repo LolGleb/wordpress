@@ -1,0 +1,64 @@
+[14-Jun-2024 13:46:22 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'user'@'localhost' (using password: YES) in /Users/Gleb.Sieemshchikov/Downloads/wordpress/wp-includes/class-wpdb.php on line 1987
+[14-Jun-2024 13:52:23 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'user'@'localhost' (using password: YES) in /Users/Gleb.Sieemshchikov/Downloads/wordpress/wp-includes/class-wpdb.php on line 1987
+[14-Jun-2024 13:53:09 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /Users/Gleb.Sieemshchikov/Downloads/wordpress/wp-includes/class-wpdb.php on line 1987
+[14-Jun-2024 14:21:31 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /Users/Gleb.Sieemshchikov/Downloads/wordpress/wp-includes/class-wpdb.php on line 1987
+[14-Jun-2024 14:23:39 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /Users/Gleb.Sieemshchikov/Downloads/wordpress/wp-includes/class-wpdb.php on line 1987
+[18-Jun-2024 15:28:26 UTC] This is an info message
+[18-Jun-2024 15:28:26 UTC] This is a warning message
+[18-Jun-2024 15:28:26 UTC] This is an error message
+[18-Jun-2024 15:39:01 UTC] This is an info message
+[18-Jun-2024 15:39:01 UTC] This is a warning message
+[18-Jun-2024 15:39:01 UTC] This is an error message
+[25-Jun-2024 15:26:31 UTC] This is an info message
+[25-Jun-2024 15:26:31 UTC] This is a warning message
+[25-Jun-2024 15:26:31 UTC] This is an error message
+[25-Jun-2024 15:28:06 UTC] This is an info message
+[25-Jun-2024 15:28:06 UTC] This is a warning message
+[25-Jun-2024 15:28:06 UTC] This is an error message
+[25-Jun-2024 15:28:06 UTC] PHP Warning:  Constant WP_DEBUG already defined in /Users/Gleb.Sieemshchikov/Downloads/wordpress/wp-admin/includes/class-wp-list-table.php on line 1612
+[25-Jun-2024 15:28:06 UTC] PHP Warning:  Constant WP_DEBUG_LOG already defined in /Users/Gleb.Sieemshchikov/Downloads/wordpress/wp-admin/includes/class-wp-list-table.php on line 1613
+[25-Jun-2024 15:28:06 UTC] PHP Notice:  Это ошибка в режиме отладки! in /Users/Gleb.Sieemshchikov/Downloads/wordpress/wp-admin/includes/class-wp-list-table.php on line 1616
+[25-Jun-2024 15:28:08 UTC] PHP Warning:  Constant WP_DEBUG already defined in /Users/Gleb.Sieemshchikov/Downloads/wordpress/wp-admin/includes/class-wp-list-table.php on line 1612
+[25-Jun-2024 15:28:08 UTC] PHP Warning:  Constant WP_DEBUG_LOG already defined in /Users/Gleb.Sieemshchikov/Downloads/wordpress/wp-admin/includes/class-wp-list-table.php on line 1613
+[25-Jun-2024 15:28:08 UTC] PHP Notice:  Это ошибка в режиме отладки! in /Users/Gleb.Sieemshchikov/Downloads/wordpress/wp-admin/includes/class-wp-list-table.php on line 1616
+[25-Jun-2024 15:28:09 UTC] This is an info message
+[25-Jun-2024 15:28:09 UTC] This is a warning message
+[25-Jun-2024 15:28:09 UTC] This is an error message
+[25-Jun-2024 15:28:09 UTC] PHP Warning:  Constant WP_DEBUG already defined in /Users/Gleb.Sieemshchikov/Downloads/wordpress/wp-admin/includes/class-wp-list-table.php on line 1612
+[25-Jun-2024 15:28:09 UTC] PHP Warning:  Constant WP_DEBUG_LOG already defined in /Users/Gleb.Sieemshchikov/Downloads/wordpress/wp-admin/includes/class-wp-list-table.php on line 1613
+[25-Jun-2024 15:28:09 UTC] PHP Notice:  Это ошибка в режиме отладки! in /Users/Gleb.Sieemshchikov/Downloads/wordpress/wp-admin/includes/class-wp-list-table.php on line 1616
+[25-Jun-2024 15:29:35 UTC] This is an info message
+[25-Jun-2024 15:29:35 UTC] This is a warning message
+[25-Jun-2024 15:29:35 UTC] This is an error message
+[25-Jun-2024 15:29:35 UTC] PHP Warning:  Constant WP_DEBUG already defined in /Users/Gleb.Sieemshchikov/Downloads/wordpress/wp-admin/includes/class-wp-list-table.php on line 1612
+[25-Jun-2024 15:29:35 UTC] PHP Warning:  Constant WP_DEBUG_LOG already defined in /Users/Gleb.Sieemshchikov/Downloads/wordpress/wp-admin/includes/class-wp-list-table.php on line 1613
+[25-Jun-2024 15:29:35 UTC] PHP Notice:  Это ошибка в режиме отладки! in /Users/Gleb.Sieemshchikov/Downloads/wordpress/wp-admin/includes/class-wp-list-table.php on line 1616
+[25-Jun-2024 15:30:36 UTC] This is an info message
+[25-Jun-2024 15:30:36 UTC] This is a warning message
+[25-Jun-2024 15:30:36 UTC] This is an error message
+[25-Jun-2024 15:30:36 UTC] PHP Warning:  Constant WP_DEBUG already defined in /Users/Gleb.Sieemshchikov/Downloads/wordpress/wp-admin/includes/class-wp-list-table.php on line 1612
+[25-Jun-2024 15:30:36 UTC] PHP Warning:  Constant WP_DEBUG_LOG already defined in /Users/Gleb.Sieemshchikov/Downloads/wordpress/wp-admin/includes/class-wp-list-table.php on line 1613
+[25-Jun-2024 15:30:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function non_existent_function() in /Users/Gleb.Sieemshchikov/Downloads/wordpress/wp-admin/includes/class-wp-list-table.php:1614
+Stack trace:
+#0 /Users/Gleb.Sieemshchikov/Downloads/wordpress/wp-admin/edit.php(520): WP_List_Table->display()
+#1 {main}
+  thrown in /Users/Gleb.Sieemshchikov/Downloads/wordpress/wp-admin/includes/class-wp-list-table.php on line 1614
+[25-Jun-2024 15:30:38 UTC] PHP Warning:  Constant WP_DEBUG already defined in /Users/Gleb.Sieemshchikov/Downloads/wordpress/wp-admin/includes/class-wp-list-table.php on line 1612
+[25-Jun-2024 15:30:38 UTC] PHP Warning:  Constant WP_DEBUG_LOG already defined in /Users/Gleb.Sieemshchikov/Downloads/wordpress/wp-admin/includes/class-wp-list-table.php on line 1613
+[25-Jun-2024 15:30:38 UTC] PHP Warning:  Constant WP_DEBUG_DISPLAY already defined in /Users/Gleb.Sieemshchikov/Downloads/wordpress/wp-admin/includes/class-wp-list-table.php on line 1614
+[25-Jun-2024 15:30:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function non_existent_function() in /Users/Gleb.Sieemshchikov/Downloads/wordpress/wp-admin/includes/class-wp-list-table.php:1615
+Stack trace:
+#0 /Users/Gleb.Sieemshchikov/Downloads/wordpress/wp-admin/users.php(814): WP_List_Table->display()
+#1 {main}
+  thrown in /Users/Gleb.Sieemshchikov/Downloads/wordpress/wp-admin/includes/class-wp-list-table.php on line 1615
+[25-Jun-2024 15:30:39 UTC] This is an info message
+[25-Jun-2024 15:30:39 UTC] This is a warning message
+[25-Jun-2024 15:30:39 UTC] This is an error message
+[25-Jun-2024 15:30:39 UTC] PHP Warning:  Constant WP_DEBUG already defined in /Users/Gleb.Sieemshchikov/Downloads/wordpress/wp-admin/includes/class-wp-list-table.php on line 1612
+[25-Jun-2024 15:30:39 UTC] PHP Warning:  Constant WP_DEBUG_LOG already defined in /Users/Gleb.Sieemshchikov/Downloads/wordpress/wp-admin/includes/class-wp-list-table.php on line 1613
+[25-Jun-2024 15:30:39 UTC] PHP Warning:  Constant WP_DEBUG_DISPLAY already defined in /Users/Gleb.Sieemshchikov/Downloads/wordpress/wp-admin/includes/class-wp-list-table.php on line 1614
+[25-Jun-2024 15:30:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function non_existent_function() in /Users/Gleb.Sieemshchikov/Downloads/wordpress/wp-admin/includes/class-wp-list-table.php:1615
+Stack trace:
+#0 /Users/Gleb.Sieemshchikov/Downloads/wordpress/wp-admin/edit.php(520): WP_List_Table->display()
+#1 {main}
+  thrown in /Users/Gleb.Sieemshchikov/Downloads/wordpress/wp-admin/includes/class-wp-list-table.php on line 1615
